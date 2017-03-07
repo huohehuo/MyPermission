@@ -1,7 +1,8 @@
 # MyPermission
 权限管理的小总结
 解释：MainActivity的是方法一：在项目的gradle文件中加入
-allprojects {
+
+# allprojects {
         repositories {
             ...
             maven { url "https://jitpack.io" }
